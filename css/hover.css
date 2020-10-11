@@ -23,3 +23,12 @@ span.line { display: inline-block;}
 .data-paragraph .paragraph-title { color: #888888; }
 .data-paragraph .supfact { background: #bbffcc; border-radius: 3px; color: inherit; transition: background-color .2s;}
 .data-paragraph .hide { background: none !important; }
+.logo {
+    position: relative; /* Declared position allows for location changes */
+    top: -50px; /* Moves the image 2px closer to the top of the page */
+}
+/*div#wrapperHeader {
+ width:50%;
+ height:50px;  height of the background image? 
+ text-align:center;
+}*/
